@@ -1,0 +1,6 @@
+//module xdelta [library] {
+module xdelta {
+  header "./xdelta/xdelta3/xdelta.h"
+  link "xdelta"
+  export *
+}
